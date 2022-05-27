@@ -119,6 +119,9 @@ int main()
         cout << endl;
     }
 
+    //Press Enter to Exit Terminal
+    system("pause");
+
     //End of statements, returning zero to int-datatype function
     return 0;
 }
